@@ -1,0 +1,11 @@
+.env
+.venv
+env
+.DS_Store
+secrets
+results
+tests/robot_framework/results
+tests/robot_framework/libraries/__pycache__
+*.pem
+*.key
+*.crt
